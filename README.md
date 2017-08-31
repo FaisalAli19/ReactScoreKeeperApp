@@ -2,6 +2,8 @@
 
 Score Keeper is a score tracking application. This tool can keep the score of the players.
 
+Live Version: https://react-score-keeper.herokuapp.com/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
