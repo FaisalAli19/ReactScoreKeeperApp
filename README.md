@@ -18,10 +18,6 @@ NPM
 Meteor
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
 #### Installing dependencies
 
 Before running the below commands make sure you are in the root of the repository folder.
