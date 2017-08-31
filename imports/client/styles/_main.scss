@@ -1,0 +1,40 @@
+// Variables
+$green: #e4ede0;
+$green-dark: darken($green, 20%);
+$blue: #dfe7ed;
+$blue-dark: darken($blue, 20%);
+$red: #eddfdf;
+$red-dark: darken($red, 20%);
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #f2f2f2;
+    color: #555555;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+}
+
+input, button, select {
+    font-size: 1.3rem;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 2.4rem;
+}
+
+@import './components/title-bar';
+@import './components/wrapper';
+@import  './components/item';
+@import './components/button';
+@import './components/player';
+@import './components/form';
