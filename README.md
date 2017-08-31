@@ -1,6 +1,6 @@
 # Score Keeper
 
-Score Keeper is a score tracking application. This tool can keep the score of the player stored.
+Score Keeper is a score tracking application. This tool can keep the score of the players.
 
 ## Getting Started
 
@@ -42,14 +42,14 @@ meteor
 
 ## Built With
 
-* [Meteor](https://www.meteor.com/){:target="_blank"}
-* [React](https://facebook.github.io/react/){:target="_blank"}
+* [Meteor](https://www.meteor.com/)
+* [React](https://facebook.github.io/react/)
 
 ## Plugins and Libraries used 
 
 Special thanks to the team for developing these awesome plugins and libraries.
 
-* [Meteor](https://www.meteor.com/){:target="_blank"}
-* [React](https://facebook.github.io/react/){:target="_blank"}
-* [React-Flip-Move](https://joshwcomeau.github.io/react-flip-move/examples/#/?_k=k6n0ym){:target="_blank"}
-* [Numeral](http://numeraljs.com/){:target="_blank"}
+* [Meteor](https://www.meteor.com/)
+* [React](https://facebook.github.io/react/)
+* [React-Flip-Move](https://joshwcomeau.github.io/react-flip-move/examples/#/?_k=k6n0ym)
+* [Numeral](http://numeraljs.com/)
